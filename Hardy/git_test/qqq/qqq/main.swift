@@ -1,8 +1,8 @@
 //
 //  main.swift
-//  Terry
+//  qqq
 //
-//  Created by Terry Koo on 2022/04/02.
+//  Created by 김연호 on 2022/04/04.
 //
 
 import Foundation
