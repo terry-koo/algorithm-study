@@ -18,11 +18,13 @@
 <br />
 
 ## ✅ commit 규칙
-- commit 메세지: [BOJ] 문제번호 / 문제이름
+
+- commit 메세지: [BOJ] 문제번호 / 문제이름  
 - description: 문제 주소 (option)
 - 터미널에서 작성법: 
 ```
-git commit -m "[BOJ] 9093 / 단어 뒤집기" -m "https://www.acmicpc.net/problem/9093"
+git commit -m "[BOJ] 10828 / 스택" -m "https://www.acmicpc.net/problem/10828"
+
 ```
 - 플랫폼 작성법 통일: 
   * [BOJ] - 백준 
@@ -33,7 +35,7 @@ git commit -m "[BOJ] 9093 / 단어 뒤집기" -m "https://www.acmicpc.net/proble
 
 ## ✅ PR 규칙
 - PR 제목: 이름 / 주차 / 몇 문제
--  ```terry koo / 4월 1주차 / 3문제 ```
+-  ```terry / 4월 1주차 / 3문제 ```
 -  comment는 자유이나 가능하다면, 이번주에 풀었던 문제의 알고리즘 분류가 어떻게 되는지, <br> 어떤 문제가 어려웠는지 회고를 작성한다면 개인에게도 도움되고 다른 코드 리뷰어가 참고하기 좋을 것 같습니다 :)
 
 
