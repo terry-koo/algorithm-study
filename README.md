@@ -18,11 +18,13 @@
 <br />
 
 ## ✅ commit 규칙
-- commit 메세지: [BOJ] 문제번호 / 문제이름  
-- description: 문제 주소 (option)
+
+
+- commit 메세지: [BOJ] 문제번호 / 문제이름 / 걸린시간(ms)
 - 터미널에서 작성법: 
 ```
-git commit -m "[BOJ] 10828 / 스택" -m "https://www.acmicpc.net/problem/10828"
+git commit -m "[BOJ] 10828 / 스택 / 30ms"
+
 ```
 - 플랫폼 작성법 통일: 
   * [BOJ] - 백준 
