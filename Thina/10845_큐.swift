@@ -1,3 +1,4 @@
+
 import Foundation
 
 let n = Int(readLine()!)!  // 명령의 줄 수
