@@ -9,3 +9,9 @@
 [1874 스택 수열 문제풀이](https://ai-hong.tistory.com/203)
 
 [1406 에디터 문제풀이](https://ai-hong.tistory.com/204)
+
+[17413 단어 뒤집기2 문제풀이](https://ai-hong.tistory.com/225)
+
+[10799 쇠막대기 문제풀이](https://ai-hong.tistory.com/226)
+
+[17298 오큰수 문제풀이](https://ai-hong.tistory.com/227)
