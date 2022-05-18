@@ -15,3 +15,9 @@
 [10799 쇠막대기 문제풀이](https://ai-hong.tistory.com/226)
 
 [17298 오큰수 문제풀이](https://ai-hong.tistory.com/227)
+
+[1918 후위 표기식](https://ai-hong.tistory.com/231)
+
+[1935-후위 표기식2](https://ai-hong.tistory.com/230)
+
+[17299-오등큰수](https://ai-hong.tistory.com/229)
