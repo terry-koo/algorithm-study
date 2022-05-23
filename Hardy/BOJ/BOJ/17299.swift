@@ -24,3 +24,4 @@ for i in stack {
 }
 
 print(num.map { String($0) }.joined(separator: " "))
+
