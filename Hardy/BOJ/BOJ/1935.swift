@@ -31,3 +31,4 @@ for order in orderLine {
 
 print(String(format: "%.2f", stack[0]))
 //ifelse문 사용했을때랑 switch문 사용했을때랑 시간 차이가 없네?
+
