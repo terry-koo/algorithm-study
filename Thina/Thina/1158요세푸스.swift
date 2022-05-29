@@ -1,3 +1,10 @@
+//
+//  1158요세푸스.swift
+//  Thina
+//
+//  Created by 유정인 on 2022/05/29.
+//
+
 import Foundation
 
 let input = readLine()!.components(separatedBy: " ").map { Int($0)! }
@@ -23,3 +30,4 @@ for _ in numArray {
 }
 
 print("<" + result.map({String($0)}).joined(separator: ", ") + ">")
+
