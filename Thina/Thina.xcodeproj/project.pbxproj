@@ -6,10 +6,6 @@
 	objectVersion = 55;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		EEE7132A284361C300CD30CC /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEE71329284361C300CD30CC /* main.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		EEC9C801283487660017048A /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -24,14 +20,12 @@
 
 /* Begin PBXFileReference section */
 		EE0DC0ED2835727600483799 /* 1935후위표기식2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1935후위표기식2.swift"; sourceTree = "<group>"; };
-		EE4D734F28426FBD00F520DB /* 2164카드2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2164카드2.swift"; sourceTree = "<group>"; };
 		EEBC83BA2839285D00D13BDB /* 1966프린터큐.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1966프린터큐.swift"; sourceTree = "<group>"; };
 		EEC9C803283487660017048A /* Thina */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Thina; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEC9C80D283487B90017048A /* 17413단어바꾸기2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17413단어바꾸기2.swift"; sourceTree = "<group>"; };
 		EEC9C80F283487E40017048A /* 17298오큰수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17298오큰수.swift"; sourceTree = "<group>"; };
 		EEC9C8152834885B0017048A /* 10799쇠막대기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10799쇠막대기.swift"; sourceTree = "<group>"; };
 		EEC9C817283489480017048A /* 17299오등큰수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17299오등큰수.swift"; sourceTree = "<group>"; };
-		EEE71329284361C300CD30CC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		EEE7132B2843695900CD30CC /* 1158요세푸스.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1158요세푸스.swift"; sourceTree = "<group>"; };
 		EEE7132C2843697600CD30CC /* 10845큐.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10845큐.swift"; sourceTree = "<group>"; };
 		EEE7132D2843699100CD30CC /* 10866덱.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10866덱.swift"; sourceTree = "<group>"; };
@@ -76,8 +70,6 @@
 				EEC9C817283489480017048A /* 17299오등큰수.swift */,
 				EE0DC0ED2835727600483799 /* 1935후위표기식2.swift */,
 				EEBC83BA2839285D00D13BDB /* 1966프린터큐.swift */,
-				EE4D734F28426FBD00F520DB /* 2164카드2.swift */,
-				EEE71329284361C300CD30CC /* main.swift */,
 			);
 			path = Thina;
 			sourceTree = "<group>";
@@ -141,7 +133,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EEE7132A284361C300CD30CC /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
