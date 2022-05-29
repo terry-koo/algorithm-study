@@ -29,6 +29,7 @@
 		EEE7132B2843695900CD30CC /* 1158요세푸스.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1158요세푸스.swift"; sourceTree = "<group>"; };
 		EEE7132C2843697600CD30CC /* 10845큐.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10845큐.swift"; sourceTree = "<group>"; };
 		EEE7132D2843699100CD30CC /* 10866덱.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10866덱.swift"; sourceTree = "<group>"; };
+		EEE7132E28436B9400CD30CC /* 2164카드2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2164카드2.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +71,7 @@
 				EEC9C817283489480017048A /* 17299오등큰수.swift */,
 				EE0DC0ED2835727600483799 /* 1935후위표기식2.swift */,
 				EEBC83BA2839285D00D13BDB /* 1966프린터큐.swift */,
+				EEE7132E28436B9400CD30CC /* 2164카드2.swift */,
 			);
 			path = Thina;
 			sourceTree = "<group>";
