@@ -6,6 +6,10 @@
 	objectVersion = 55;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		EE34D422284CF47B005F8179 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE34D421284CF47A005F8179 /* main.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		EEC9C801283487660017048A /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -20,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		EE0DC0ED2835727600483799 /* 1935후위표기식2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1935후위표기식2.swift"; sourceTree = "<group>"; };
+		EE34D421284CF47A005F8179 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		EEBC83BA2839285D00D13BDB /* 1966프린터큐.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1966프린터큐.swift"; sourceTree = "<group>"; };
 		EEC9C803283487660017048A /* Thina */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Thina; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEC9C80D283487B90017048A /* 17413단어바꾸기2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17413단어바꾸기2.swift"; sourceTree = "<group>"; };
@@ -72,6 +77,7 @@
 				EE0DC0ED2835727600483799 /* 1935후위표기식2.swift */,
 				EEBC83BA2839285D00D13BDB /* 1966프린터큐.swift */,
 				EEE7132E28436B9400CD30CC /* 2164카드2.swift */,
+				EE34D421284CF47A005F8179 /* main.swift */,
 			);
 			path = Thina;
 			sourceTree = "<group>";
@@ -135,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE34D422284CF47B005F8179 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
