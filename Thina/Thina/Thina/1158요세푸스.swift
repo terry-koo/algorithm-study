@@ -30,4 +30,3 @@ for _ in numArray {
 }
 
 print("<" + result.map({String($0)}).joined(separator: ", ") + ">")
-

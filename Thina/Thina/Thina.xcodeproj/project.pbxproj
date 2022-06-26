@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		EE34D422284CF47B005F8179 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE34D421284CF47A005F8179 /* main.swift */; };
+		EE08EAFA286850200094CD6D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE08EAF9286850200094CD6D /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		EEC9C801283487660017048A /* CopyFiles */ = {
+		EE08EAD928684ED70094CD6D /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -23,22 +23,23 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		EE0DC0ED2835727600483799 /* 1935후위표기식2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1935후위표기식2.swift"; sourceTree = "<group>"; };
-		EE34D421284CF47A005F8179 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		EEBC83BA2839285D00D13BDB /* 1966프린터큐.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1966프린터큐.swift"; sourceTree = "<group>"; };
-		EEC9C803283487660017048A /* Thina */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Thina; sourceTree = BUILT_PRODUCTS_DIR; };
-		EEC9C80D283487B90017048A /* 17413단어바꾸기2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17413단어바꾸기2.swift"; sourceTree = "<group>"; };
-		EEC9C80F283487E40017048A /* 17298오큰수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17298오큰수.swift"; sourceTree = "<group>"; };
-		EEC9C8152834885B0017048A /* 10799쇠막대기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10799쇠막대기.swift"; sourceTree = "<group>"; };
-		EEC9C817283489480017048A /* 17299오등큰수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17299오등큰수.swift"; sourceTree = "<group>"; };
-		EEE7132B2843695900CD30CC /* 1158요세푸스.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1158요세푸스.swift"; sourceTree = "<group>"; };
-		EEE7132C2843697600CD30CC /* 10845큐.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10845큐.swift"; sourceTree = "<group>"; };
-		EEE7132D2843699100CD30CC /* 10866덱.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10866덱.swift"; sourceTree = "<group>"; };
-		EEE7132E28436B9400CD30CC /* 2164카드2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2164카드2.swift"; sourceTree = "<group>"; };
+		EE08EADB28684ED70094CD6D /* Thina */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Thina; sourceTree = BUILT_PRODUCTS_DIR; };
+		EE08EADE28684ED70094CD6D /* 10799쇠막대기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10799쇠막대기.swift"; sourceTree = "<group>"; };
+		EE08EAE528684F190094CD6D /* 10845큐.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10845큐.swift"; sourceTree = "<group>"; };
+		EE08EAE728684F310094CD6D /* 10866덱.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10866덱.swift"; sourceTree = "<group>"; };
+		EE08EAE928684F460094CD6D /* 1158요세푸스.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1158요세푸스.swift"; sourceTree = "<group>"; };
+		EE08EAEB28684F590094CD6D /* 17298오큰수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17298오큰수.swift"; sourceTree = "<group>"; };
+		EE08EAED28684F780094CD6D /* 17299오등큰수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17299오등큰수.swift"; sourceTree = "<group>"; };
+		EE08EAEF28684F9B0094CD6D /* 17413단어바꾸기2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17413단어바꾸기2.swift"; sourceTree = "<group>"; };
+		EE08EAF128684FB90094CD6D /* 1935후위표기식2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1935후위표기식2.swift"; sourceTree = "<group>"; };
+		EE08EAF328684FCE0094CD6D /* 1966프린터큐.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1966프린터큐.swift"; sourceTree = "<group>"; };
+		EE08EAF528684FE60094CD6D /* 2164카드2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2164카드2.swift"; sourceTree = "<group>"; };
+		EE08EAF728684FFD0094CD6D /* 2436풍선터뜨리기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2436풍선터뜨리기.swift"; sourceTree = "<group>"; };
+		EE08EAF9286850200094CD6D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		EEC9C800283487660017048A /* Frameworks */ = {
+		EE08EAD828684ED70094CD6D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -48,36 +49,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		EEC9C7FA283487660017048A = {
+		EE08EAD228684ED70094CD6D = {
 			isa = PBXGroup;
 			children = (
-				EEC9C805283487660017048A /* Thina */,
-				EEC9C804283487660017048A /* Products */,
+				EE08EADD28684ED70094CD6D /* Thina */,
+				EE08EADC28684ED70094CD6D /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		EEC9C804283487660017048A /* Products */ = {
+		EE08EADC28684ED70094CD6D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EEC9C803283487660017048A /* Thina */,
+				EE08EADB28684ED70094CD6D /* Thina */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		EEC9C805283487660017048A /* Thina */ = {
+		EE08EADD28684ED70094CD6D /* Thina */ = {
 			isa = PBXGroup;
 			children = (
-				EEE7132B2843695900CD30CC /* 1158요세푸스.swift */,
-				EEE7132C2843697600CD30CC /* 10845큐.swift */,
-				EEE7132D2843699100CD30CC /* 10866덱.swift */,
-				EEC9C80D283487B90017048A /* 17413단어바꾸기2.swift */,
-				EEC9C8152834885B0017048A /* 10799쇠막대기.swift */,
-				EEC9C80F283487E40017048A /* 17298오큰수.swift */,
-				EEC9C817283489480017048A /* 17299오등큰수.swift */,
-				EE0DC0ED2835727600483799 /* 1935후위표기식2.swift */,
-				EEBC83BA2839285D00D13BDB /* 1966프린터큐.swift */,
-				EEE7132E28436B9400CD30CC /* 2164카드2.swift */,
-				EE34D421284CF47A005F8179 /* main.swift */,
+				EE08EADE28684ED70094CD6D /* 10799쇠막대기.swift */,
+				EE08EAE528684F190094CD6D /* 10845큐.swift */,
+				EE08EAE728684F310094CD6D /* 10866덱.swift */,
+				EE08EAE928684F460094CD6D /* 1158요세푸스.swift */,
+				EE08EAEB28684F590094CD6D /* 17298오큰수.swift */,
+				EE08EAED28684F780094CD6D /* 17299오등큰수.swift */,
+				EE08EAEF28684F9B0094CD6D /* 17413단어바꾸기2.swift */,
+				EE08EAF128684FB90094CD6D /* 1935후위표기식2.swift */,
+				EE08EAF328684FCE0094CD6D /* 1966프린터큐.swift */,
+				EE08EAF528684FE60094CD6D /* 2164카드2.swift */,
+				EE08EAF728684FFD0094CD6D /* 2436풍선터뜨리기.swift */,
+				EE08EAF9286850200094CD6D /* main.swift */,
 			);
 			path = Thina;
 			sourceTree = "<group>";
@@ -85,13 +87,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EEC9C802283487660017048A /* Thina */ = {
+		EE08EADA28684ED70094CD6D /* Thina */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EEC9C80A283487660017048A /* Build configuration list for PBXNativeTarget "Thina" */;
+			buildConfigurationList = EE08EAE228684ED70094CD6D /* Build configuration list for PBXNativeTarget "Thina" */;
 			buildPhases = (
-				EEC9C7FF283487660017048A /* Sources */,
-				EEC9C800283487660017048A /* Frameworks */,
-				EEC9C801283487660017048A /* CopyFiles */,
+				EE08EAD728684ED70094CD6D /* Sources */,
+				EE08EAD828684ED70094CD6D /* Frameworks */,
+				EE08EAD928684ED70094CD6D /* CopyFiles */,
 			);
 			buildRules = (
 			);
@@ -99,26 +101,26 @@
 			);
 			name = Thina;
 			productName = Thina;
-			productReference = EEC9C803283487660017048A /* Thina */;
+			productReference = EE08EADB28684ED70094CD6D /* Thina */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		EEC9C7FB283487660017048A /* Project object */ = {
+		EE08EAD328684ED70094CD6D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1340;
 				LastUpgradeCheck = 1340;
 				TargetAttributes = {
-					EEC9C802283487660017048A = {
-						CreatedOnToolsVersion = 13.4;
+					EE08EADA28684ED70094CD6D = {
+						CreatedOnToolsVersion = 13.4.1;
 						LastSwiftMigration = 1340;
 					};
 				};
 			};
-			buildConfigurationList = EEC9C7FE283487660017048A /* Build configuration list for PBXProject "Thina" */;
+			buildConfigurationList = EE08EAD628684ED70094CD6D /* Build configuration list for PBXProject "Thina" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -126,29 +128,29 @@
 				en,
 				Base,
 			);
-			mainGroup = EEC9C7FA283487660017048A;
-			productRefGroup = EEC9C804283487660017048A /* Products */;
+			mainGroup = EE08EAD228684ED70094CD6D;
+			productRefGroup = EE08EADC28684ED70094CD6D /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EEC9C802283487660017048A /* Thina */,
+				EE08EADA28684ED70094CD6D /* Thina */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		EEC9C7FF283487660017048A /* Sources */ = {
+		EE08EAD728684ED70094CD6D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EE34D422284CF47B005F8179 /* main.swift in Sources */,
+				EE08EAFA286850200094CD6D /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		EEC9C808283487660017048A /* Debug */ = {
+		EE08EAE028684ED70094CD6D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -208,7 +210,7 @@
 			};
 			name = Debug;
 		};
-		EEC9C809283487660017048A /* Release */ = {
+		EE08EAE128684ED70094CD6D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -261,7 +263,7 @@
 			};
 			name = Release;
 		};
-		EEC9C80B283487660017048A /* Debug */ = {
+		EE08EAE328684ED70094CD6D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
@@ -274,13 +276,12 @@
 					"@loader_path/../Frameworks",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "Thina/Thina-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
-		EEC9C80C283487660017048A /* Release */ = {
+		EE08EAE428684ED70094CD6D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
@@ -293,7 +294,6 @@
 					"@loader_path/../Frameworks",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "Thina/Thina-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
@@ -301,25 +301,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EEC9C7FE283487660017048A /* Build configuration list for PBXProject "Thina" */ = {
+		EE08EAD628684ED70094CD6D /* Build configuration list for PBXProject "Thina" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				EEC9C808283487660017048A /* Debug */,
-				EEC9C809283487660017048A /* Release */,
+				EE08EAE028684ED70094CD6D /* Debug */,
+				EE08EAE128684ED70094CD6D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EEC9C80A283487660017048A /* Build configuration list for PBXNativeTarget "Thina" */ = {
+		EE08EAE228684ED70094CD6D /* Build configuration list for PBXNativeTarget "Thina" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				EEC9C80B283487660017048A /* Debug */,
-				EEC9C80C283487660017048A /* Release */,
+				EE08EAE328684ED70094CD6D /* Debug */,
+				EE08EAE428684ED70094CD6D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = EEC9C7FB283487660017048A /* Project object */;
+	rootObject = EE08EAD328684ED70094CD6D /* Project object */;
 }
