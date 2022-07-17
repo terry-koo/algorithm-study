@@ -39,7 +39,7 @@ var count: Int // 문서 갯수
 var index: Int // 궁금한 문서의 index
 var arr: [Int] // 문서들의 중요도를 저장
 var popCount: Int = 0
-for _ in 0..<2*n {
+for _ in 0..<n {
     var queue = Queue()
     var first = readLine()!.split(separator: " ") // 첫번째 줄 읽기
     var count = first[0] // 문서 갯수
