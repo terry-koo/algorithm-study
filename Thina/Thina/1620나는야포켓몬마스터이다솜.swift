@@ -7,29 +7,22 @@
 
 import Foundation
 
-let input = readLine()!.split(separator: " ").map { Int(String($0))! }
-let N = input[0]
-let M = input[1]
+let input = readLine()!.split(separator: " ").map { Int($0)! }
+var m1 = [String : Int]()
+var m2 = [Int : String]()
 
-var result = ""
-var dictionary = [String]()
-
-for _ in 1...N {
-    let name = readLine()!
-    dictionary.append(name)
+for i in 0..<input[0] {
+    let pokemon = readLine()!
+    m1[pokemon] = i + 1
+    m2[i + 1] = pokemon
 }
 
-//print(dictionary)
-
-for _ in 0..<M {
-    let question = readLine()!
-    let num = Int(question) ?? 0
-    //question이 문자열인 경우
-    if num == 0 {
-        result.write("\(dictionary.firstIndex(of: question)!+1)")
+for _ in 0..<input[1] {
+    let who = readLine()!
+    
+    if let int = Int(who) {
+        print(m2[int]!)
     } else {
-        result.write("\(dictionary[num-1])")
+        print(m1[who]!)
     }
 }
-
-print(result)
